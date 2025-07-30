@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TZeik.github.io/wistia-poc/static/css/main.bf5b5b55.css",
+    "main.js": "/TZeik.github.io/wistia-poc/static/js/main.45fd56f5.js",
+    "static/js/180.592c6a7e.chunk.js": "/TZeik.github.io/wistia-poc/static/js/180.592c6a7e.chunk.js",
+    "static/js/453.b1ac99eb.chunk.js": "/TZeik.github.io/wistia-poc/static/js/453.b1ac99eb.chunk.js",
+    "static/js/85.14cc6a05.chunk.js": "/TZeik.github.io/wistia-poc/static/js/85.14cc6a05.chunk.js",
+    "index.html": "/TZeik.github.io/wistia-poc/index.html",
+    "main.bf5b5b55.css.map": "/TZeik.github.io/wistia-poc/static/css/main.bf5b5b55.css.map",
+    "main.45fd56f5.js.map": "/TZeik.github.io/wistia-poc/static/js/main.45fd56f5.js.map",
+    "180.592c6a7e.chunk.js.map": "/TZeik.github.io/wistia-poc/static/js/180.592c6a7e.chunk.js.map",
+    "453.b1ac99eb.chunk.js.map": "/TZeik.github.io/wistia-poc/static/js/453.b1ac99eb.chunk.js.map",
+    "85.14cc6a05.chunk.js.map": "/TZeik.github.io/wistia-poc/static/js/85.14cc6a05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf5b5b55.css",
+    "static/js/main.45fd56f5.js"
+  ]
+}
